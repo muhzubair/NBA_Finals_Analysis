@@ -1,6 +1,6 @@
 # NBA Finals Analysis
 
-### It can be clearly seen that the team that fulfilled and passed through the list in analysis summary below ended up winning the game
+#### It can be clearly seen that the team that fulfilled and passed through the list in analysis summary below ended up winning the game
 
 ### Analysis summary
 
